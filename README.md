@@ -15,14 +15,15 @@ pip install stempeg
 
 详见requirement.txt
 
-## 下载数据集
+## 下载数据集（如果不自己训练的话可跳过）
 使用前请下载数据集
 https://zenodo.org/record/1117372/files/musdb18.zip?download=1
 
-## 预处理
+## 预处理（如果不自己训练的话可跳过）
+请更改文件中的数据集路径
 运行load_dset.py，生成梅尔频谱特征
 
-## 训练模型
+## 训练模型（如果不自己训练的话可跳过）
 train_track.py
 
 ## 使用方法
