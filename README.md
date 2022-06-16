@@ -1,11 +1,16 @@
 # 使用说明
 ## 环境配置
 pytorch, ffmpeg, librosa, stempeg
+
 pytorch安装教程请参考：
 https://yulizi123.github.io/tutorials/machine-learning/torch/1-2-install/
+
 其他安装命令：
+
 conda install -c conda-forge ffmpeg
+
 conda install -c conda-forge librosa
+
 pip install stempeg
 
 详见requirement.txt
